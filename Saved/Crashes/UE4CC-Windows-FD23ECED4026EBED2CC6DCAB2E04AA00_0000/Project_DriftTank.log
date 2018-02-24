@@ -1,0 +1,1504 @@
+﻿Log file open, 02/23/18 21:36:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Project_DriftTank
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-269497606) SRandInit(-269497606).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.421516
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/RawInput/Binaries/Win64/UE4Editor-RawInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.24-02.36.50:921][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.24-02.36.50:921][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.24-02.36.50:928][  0]LogInit: Computer: DESKTOP-5MVEG7J
+[2018.02.24-02.36.50:928][  0]LogInit: User: pmnuckels
+[2018.02.24-02.36.50:928][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.02.24-02.36.50:928][  0]LogInit: High frequency timer resolution =3.609371 MHz
+[2018.02.24-02.36.50:929][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.02.24-02.36.50:929][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.24-02.36.50:929][  0]LogMemory: Process Physical Memory: 275.79 MB used, 275.79 MB peak
+[2018.02.24-02.36.50:929][  0]LogMemory: Process Virtual Memory: 270.17 MB used, 270.17 MB peak
+[2018.02.24-02.36.50:929][  0]LogMemory: Physical Memory: 5607.72 MB used,  10702.23 MB free, 16309.96 MB total
+[2018.02.24-02.36.50:929][  0]LogMemory: Virtual Memory: 688.27 MB used,  10702.23 MB free, 134217728.00 MB total
+[2018.02.24-02.36.51:816][  0]LogInit: Using OS detected language (en-US).
+[2018.02.24-02.36.51:816][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.24-02.36.51:825][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.24-02.36.52:173][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.24-02.36.52:607][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.24-02.36.52:657][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.02.24-02.36.52:657][  0]LogD3D11RHI:       8079/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.24-02.36.52:658][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.24-02.36.52:658][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.24-02.36.52:658][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.24-02.36.52:664][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.24-02.36.52:665][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.24-02.36.52:665][  0]LogWindows: EnumDisplayDevices:
+[2018.02.24-02.36.52:665][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.02.24-02.36.52:665][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.02.24-02.36.52:665][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.02.24-02.36.52:665][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.02.24-02.36.52:665][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.24-02.36.52:665][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.02.24-02.36.52:665][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.24-02.36.52:665][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.24-02.36.52:665][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.02.24-02.36.52:688][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.24-02.36.52:714][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.02.24-02.36.52:763][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/pmnuckels/Documents/GitHub/Project_DriftTank/Intermediate/Shaders/WorkingDirectory/15432/).
+[2018.02.24-02.36.52:763][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/pmnuckels/AppData/Local/Temp/UnrealShaderWorkingDir/9C2D5E22463212424E1C5BA8F6904251/'.
+[2018.02.24-02.36.52:763][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.24-02.36.54:125][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.24-02.36.54:251][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.24-02.36.54:366][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.24-02.36.54:508][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.24-02.36.54:628][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.24-02.36.54:738][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.24-02.36.54:853][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.24-02.36.54:969][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.24-02.36.55:075][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.24-02.36.55:202][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.24-02.36.55:320][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.24-02.36.55:443][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.24-02.36.55:555][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.24-02.36.55:679][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.24-02.36.55:905][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.24-02.36.55:905][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.24-02.36.56:014][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.24-02.36.56:121][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.24-02.36.56:412][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.24-02.36.56:490][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.24-02.36.56:609][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.24-02.36.56:723][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.24-02.36.56:853][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.24-02.36.57:229][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.24-02.36.57:229][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.24-02.36.59:729][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.24-02.36.59:729][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2018.02.24-02.36.59:729][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/pmnuckels/Documents/GitHub/Project_DriftTank/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.24-02.36.59:729][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.24-02.36.59:729][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/pmnuckels/Documents/GitHub/Project_DriftTank/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.24-02.36.59:729][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.24-02.36.59:748][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.24-02.36.59:760][  0]LogDerivedDataCache: Using Local data cache path C:/Users/pmnuckels/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.24-02.36.59:785][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.24-02.36.59:785][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.24-02.36.59:787][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.24-02.36.59:787][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.24-02.37.00:309][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.24-02.37.00:401][  0]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.02.24-02.37.20:086][  0]LogMaterial: Missing cached shader map for material DefaultLightFunctionMaterial, compiling. 
+[2018.02.24-02.37.20:531][  0]LogMaterial: Missing cached shader map for material DefaultPostProcessMaterial, compiling. 
+[2018.02.24-02.37.20:892][  0]LogMaterial: Missing cached shader map for material DefaultDeferredDecalMaterial, compiling. 
+[2018.02.24-02.37.24:682][  0]LogMaterial: Missing cached shader map for material MatineeCam_mat, compiling. 
+[2018.02.24-02.37.27:372][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.24-02.37.27:492][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.24-02.37.27:492][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.24-02.37.27:492][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.24-02.37.27:492][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.24-02.37.27:492][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.24-02.37.27:531][  0]LogNetVersion: Project_DriftTank , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1299574986)
+[2018.02.24-02.37.27:573][  0]LogMaterial: Missing cached shader map for material HelpActorMaterial, compiling. 
+[2018.02.24-02.37.27:700][  0]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2018.02.24-02.37.27:862][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2018.02.24-02.37.27:919][  0]LogMaterial: Missing cached shader map for material Main, compiling. 
+[2018.02.24-02.37.27:937][  0]LogMaterial: Missing cached shader map for material Xray, compiling. 
+[2018.02.24-02.37.28:129][  0]LogMaterial: Missing cached shader map for material TranslucentTransformGizmoMaterial, compiling. 
+[2018.02.24-02.37.28:144][  0]LogMaterial: Missing cached shader map for material TransformGizmoMaterial, compiling. 
+[2018.02.24-02.37.28:154][  0]LogMaterial: Missing cached shader map for material SnapGridMaterial, compiling. 
+[2018.02.24-02.37.28:316][  0]LogMaterial: Missing cached shader map for material CineMat, compiling. 
+[2018.02.24-02.37.28:410][  0]LogMaterial: Missing cached shader map for material M_SimpleOpaque, compiling. 
+[2018.02.24-02.37.28:455][  0]LogMaterial: Missing cached shader map for material M_SimpleTranslucent, compiling. 
+[2018.02.24-02.37.28:550][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.02.24-02.37.28:565][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.02.24-02.37.28:588][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.02.24-02.37.28:607][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.02.24-02.37.28:620][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.02.24-02.37.28:646][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.02.24-02.37.28:825][  0]LogMaterial: Missing cached shader map for material SkySphereMaterial, compiling. 
+[2018.02.24-02.37.28:848][  0]LogMaterial: Missing cached shader map for material FloorPlaneMaterial, compiling. 
+[2018.02.24-02.37.29:102][  0]LogMaterial: Missing cached shader map for material LandscapeGizmo_Mat, compiling. 
+[2018.02.24-02.37.29:136][  0]LogMaterial: Missing cached shader map for material LandscapeGizmoHeight_Mat, compiling. 
+[2018.02.24-02.37.29:215][  0]LogMaterial: Missing cached shader map for material SplineEditorMeshMat, compiling. 
+[2018.02.24-02.37.29:248][  0]LogMaterial: Missing cached shader map for material ARKitCameraMaterial, compiling. 
+[2018.02.24-02.37.29:282][  0]LogMaterial: Missing cached shader map for material GearVRControllerMaterial, compiling. 
+[2018.02.24-02.37.29:440][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.087534 seconds
+[2018.02.24-02.37.29:449][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.24-02.37.29:449][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.02.24-02.37.29:449][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.24-02.37.29:640][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.24-02.37.34:222][  0]LogMaterial: Missing cached shader map for material VivePreControllerMaterial, compiling. 
+[2018.02.24-02.37.34:255][  0]LogMaterial: Missing cached shader map for material OculusControllerMaterial, compiling. 
+[2018.02.24-02.37.34:324][  0]LogMaterial: Missing cached shader map for material ArrowMaterial, compiling. 
+[2018.02.24-02.37.34:363][  0]LogMaterial: Missing cached shader map for material KeyDiskMaterial, compiling. 
+[2018.02.24-02.37.34:378][  0]LogMaterial: Missing cached shader map for material FlattenHeightMat, compiling. 
+[2018.02.24-02.37.34:396][  0]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.02.24-02.37.34:411][  0]LogMaterial: Missing cached shader map for material VRTextMaterial, compiling. 
+[2018.02.24-02.37.34:433][  0]LogMaterial: Missing cached shader map for material GenericHMDMaterial, compiling. 
+[2018.02.24-02.37.34:471][  0]LogMaterial: Missing cached shader map for material TeleportDirectionMaterial, compiling. 
+[2018.02.24-02.37.34:509][  0]LogMaterial: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2018.02.24-02.37.34:536][  0]LogMaterial: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2018.02.24-02.37.34:579][  0]LogMaterial: Missing cached shader map for material GridPostProcess, compiling. 
+[2018.02.24-02.37.34:597][  0]LogMaterial: Missing cached shader map for material M_ContentWindow, compiling. 
+[2018.02.24-02.37.34:658][  0]LogMaterial: Missing cached shader map for material LineMaterial, compiling. 
+[2018.02.24-02.37.34:679][  0]LogMaterial: Missing cached shader map for material VRTextMaterial, compiling. 
+[2018.02.24-02.37.37:686][  0]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2018.02.24-02.37.37:711][  0]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2018.02.24-02.37.39:362][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.24-02.37.39:538][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.24-02.37.40:615][  0]LogMaterial: Missing cached shader map for material DefaultMaterial, compiling. 
+[2018.02.24-02.37.42:586][  0]LogMaterial: Missing cached shader map for material BaseColor, compiling. 
+[2018.02.24-02.37.42:601][  0]LogMaterial: Missing cached shader map for material CustomDepth, compiling. 
+[2018.02.24-02.37.42:639][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.24-02.37.42:643][  0]LogMaterial: Missing cached shader map for material CustomStencil, compiling. 
+[2018.02.24-02.37.42:657][  0]LogMaterial: Missing cached shader map for material FinalImage, compiling. 
+[2018.02.24-02.37.42:670][  0]LogMaterial: Missing cached shader map for material LightingModel, compiling. 
+[2018.02.24-02.37.42:685][  0]LogMaterial: Missing cached shader map for material MaterialAO, compiling. 
+[2018.02.24-02.37.42:697][  0]LogMaterial: Missing cached shader map for material Metallic, compiling. 
+[2018.02.24-02.37.42:710][  0]LogMaterial: Missing cached shader map for material Opacity, compiling. 
+[2018.02.24-02.37.42:723][  0]LogMaterial: Missing cached shader map for material Roughness, compiling. 
+[2018.02.24-02.37.42:736][  0]LogMaterial: Missing cached shader map for material SceneColor, compiling. 
+[2018.02.24-02.37.42:749][  0]LogMaterial: Missing cached shader map for material SceneDepth, compiling. 
+[2018.02.24-02.37.42:763][  0]LogMaterial: Missing cached shader map for material SeparateTranslucencyRGB, compiling. 
+[2018.02.24-02.37.42:778][  0]LogMaterial: Missing cached shader map for material SeparateTranslucencyA, compiling. 
+[2018.02.24-02.37.42:795][  0]LogMaterial: Missing cached shader map for material Specular, compiling. 
+[2018.02.24-02.37.42:812][  0]LogMaterial: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2018.02.24-02.37.42:826][  0]LogMaterial: Missing cached shader map for material WorldNormal, compiling. 
+[2018.02.24-02.37.42:844][  0]LogMaterial: Missing cached shader map for material AmbientOcclusion, compiling. 
+[2018.02.24-02.37.42:870][  0]LogMaterial: Missing cached shader map for material CustomDepthWorldUnits, compiling. 
+[2018.02.24-02.37.42:885][  0]LogMaterial: Missing cached shader map for material SceneDepthWorldUnits, compiling. 
+[2018.02.24-02.37.42:900][  0]LogMaterial: Missing cached shader map for material PreTonemapHDRColor, compiling. 
+[2018.02.24-02.37.42:914][  0]LogMaterial: Missing cached shader map for material PostTonemapHDRColor, compiling. 
+[2018.02.24-02.37.44:077][  0]SourceControl: Source control is disabled
+[2018.02.24-02.37.44:077][  0]SourceControl: Source control is disabled
+[2018.02.24-02.37.44:346][  0]SourceControl: Source control is disabled
+[2018.02.24-02.37.44:637][  0]SourceControl: Source control is disabled
+[2018.02.24-02.37.47:222][  0]LogMaterial: Missing cached shader map for material DefaultMediaPlaneMaterial, compiling. 
+[2018.02.24-02.37.48:208][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.24-02.37.49:167][  0]LogOcInput: OculusInput pre-init called
+[2018.02.24-02.37.50:073][  0]LogMaterial: Missing cached shader map for material HighResScreenshot, compiling. 
+[2018.02.24-02.37.50:094][  0]LogMaterial: Missing cached shader map for material HighResScreenshotMask, compiling. 
+[2018.02.24-02.37.50:118][  0]LogMaterial: Missing cached shader map for material HighResScreenshotCaptureRegion, compiling. 
+[2018.02.24-02.37.50:200][  0]LogEngine: Initializing Engine...
+[2018.02.24-02.37.50:204][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.24-02.37.50:209][  0]LogMaterial: Missing cached shader map for material WireframeMaterial, compiling. Is special engine material.
+[2018.02.24-02.37.50:499][  0]LogMaterial: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2018.02.24-02.37.51:298][  0]LogMaterial: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2018.02.24-02.37.51:544][  0]LogMaterial: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2018.02.24-02.37.52:338][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2018.02.24-02.37.53:115][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2018.02.24-02.37.53:349][  0]LogMaterial: Missing cached shader map for material VertexColorMaterial, compiling. 
+[2018.02.24-02.37.53:462][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
+[2018.02.24-02.37.53:489][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
+[2018.02.24-02.37.53:510][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
+[2018.02.24-02.37.53:532][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
+[2018.02.24-02.37.53:555][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
+[2018.02.24-02.37.53:576][  0]LogMaterial: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
+[2018.02.24-02.37.53:587][  0]LogMaterial: Missing cached shader map for material DebugMeshMaterial, compiling. 
+[2018.02.24-02.37.53:611][  0]LogMaterial: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
+[2018.02.24-02.37.53:662][  0]LogMaterial: Missing cached shader map for material GizmoMaterial, compiling. 
+[2018.02.24-02.37.53:684][  0]LogMaterial: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
+[2018.02.24-02.37.53:713][  0]LogMaterial: Missing cached shader map for material GeomMaterial, compiling. 
+[2018.02.24-02.37.53:729][  0]LogMaterial: Missing cached shader map for material EditorBrushMaterial, compiling. 
+[2018.02.24-02.37.53:749][  0]LogMaterial: Missing cached shader map for material BoneWeightMaterial, compiling. 
+[2018.02.24-02.37.53:869][  0]LogMaterial: Missing cached shader map for material ClothMaterial, compiling. 
+[2018.02.24-02.37.53:890][  0]LogMaterial: Missing cached shader map for material ClothMaterial_WF, compiling. 
+[2018.02.24-02.37.53:920][  0]LogMaterial: Missing cached shader map for material DebugEditorMaterial, compiling. 
+[2018.02.24-02.37.53:941][  0]LogMaterial: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2018.02.24-02.37.54:215][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.24-02.37.54:215][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.24-02.37.54:582][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.24-02.37.54:727][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-02.37.54:751][  0]LogInit: FAudioDevice initialized.
+[2018.02.24-02.37.54:831][  0]LogDerivedDataCache: Saved boot cache 0.08s 69MB C:/Users/pmnuckels/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.24-02.37.54:848][  0]LogInit: Texture streaming: Enabled
+[2018.02.24-02.37.55:442][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.24-02.37.55:794][  0]LogInit: Transaction tracking system initialized
+[2018.02.24-02.37.56:954][  0]BlueprintLog: New page: Editor Load
+[2018.02.24-02.38.01:116][  0]LocalizationService: Localization service is disabled
+[2018.02.24-02.38.04:470][  0]LogConsoleResponse: Display: 
+[2018.02.24-02.38.04:596][  0]LogMaterial: Missing cached shader map for material Cross_Mat, compiling. 
+[2018.02.24-02.38.04:624][  0]LogMaterial: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2018.02.24-02.38.04:649][  0]LogMaterial: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2018.02.24-02.38.04:669][  0]LogMaterial: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2018.02.24-02.38.04:688][  0]LogMaterial: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2018.02.24-02.38.04:714][  0]LogMaterial: Missing cached shader map for material Tick_Mat, compiling. 
+[2018.02.24-02.38.04:744][  0]LogMaterial: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2018.02.24-02.38.04:764][  0]LogMaterial: Missing cached shader map for material WidgetMaterial, compiling. 
+[2018.02.24-02.38.04:783][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2018.02.24-02.38.04:802][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2018.02.24-02.38.04:820][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2018.02.24-02.38.04:838][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2018.02.24-02.38.04:858][  0]LogMaterial: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2018.02.24-02.38.04:930][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2018.02.24-02.38.05:003][  0]LogMaterial: Missing cached shader map for material BlinkingCaret, compiling. 
+[2018.02.24-02.38.05:080][  0]LogMaterial: Missing cached shader map for material M_StreamingPause, compiling. 
+[2018.02.24-02.38.05:121][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.24-02.38.05:121][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.24-02.38.05:121][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.24-02.38.06:021][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pmnuckels/Documents/GitHub/Project_DriftTank/Content/' took 0.01s
+[2018.02.24-02.38.09:671][  0]SourceControl: Source control is disabled
+[2018.02.24-02.38.09:671][  0]Cmd: MAP LOAD FILE="../../../../../../Users/pmnuckels/Documents/GitHub/Project_DriftTank/Content/VehicleBP/Maps/VehicleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.24-02.38.09:672][  0]LightingResults: New page: Lighting Build
+[2018.02.24-02.38.09:768][  0]MapCheck: New page: Map Check
+[2018.02.24-02.38.09:768][  0]LightingResults: New page: Lighting Build
+[2018.02.24-02.38.10:295][  0]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.02.24-02.38.10:333][  0]LogStaticMesh: Building static mesh SM_TestTank_Body_01_TankBody...
+[2018.02.24-02.38.10:739][  0]LogStaticMesh: Built static mesh [0.41s] /Game/Geometry/Meshes/SM_TestTank_Body_01_TankBody.SM_TestTank_Body_01_TankBody
+[2018.02.24-02.38.10:843][  0]LogMaterial: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2018.02.24-02.38.10:859][  0]LogMaterial: Missing cached shader map for material AntiAliasedTextMaterialTranslucent, compiling. 
+[2018.02.24-02.38.10:903][  0]LogMaterial: Missing cached shader map for material M_Vehicle_Sedan, compiling. 
+[2018.02.24-02.38.11:015][  0]LogMaterial: Missing cached shader map for material M_Vehicle_Sedan, compiling. 
+[2018.02.24-02.38.11:224][  0]LogMaterial: Missing cached shader map for material BaseMaterial, compiling. 
+[2018.02.24-02.38.11:308][  0]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.02.24-02.38.11:740][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.24-02.38.11:759][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.24-02.38.11:842][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 83.075ms to complete.
+[2018.02.24-02.38.11:842][  0]LogFileHelpers: Loading map 'VehicleExampleMap' took 2.171
+[2018.02.24-02.38.12:116][  0]LogCollectionManager: Loaded 0 collections in 0.002437 seconds
+[2018.02.24-02.38.12:254][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pmnuckels/Documents/GitHub/Project_DriftTank/Saved/Collections/' took 0.01s
+[2018.02.24-02.38.12:254][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pmnuckels/Documents/GitHub/Project_DriftTank/Content/Developers/pmnuckels/Collections/' took 0.01s
+[2018.02.24-02.38.12:254][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pmnuckels/Documents/GitHub/Project_DriftTank/Content/Collections/' took 0.01s
+[2018.02.24-02.38.12:254][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.24-02.38.12:265][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2365 classes and 522 folders.
+[2018.02.24-02.38.12:415][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.24-02.38.12:573][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.24-02.38.12:785][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.24-02.38.13:084][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.24-02.38.13:084][  0]LogLoad: (Engine Initialization) Total time: 87.26 seconds
+[2018.02.24-02.38.13:084][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.24-02.38.13:084][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.24-02.38.13:425][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.02.24-02.38.13:425][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.02.24-02.38.13:425][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2018.02.24-02.38.13:425][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2018.02.24-02.38.13:425][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2018.02.24-02.38.13:448][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.24-02.38.13:451][  0]LogSlate: Took 0.001283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.24-02.38.13:454][  0]LogSlate: Took 0.001333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.24-02.38.13:461][  0]LogSlate: Took 0.001177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.24-02.38.13:582][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2018.02.24-02.38.13:618][  0]LogSlate: Took 0.001377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.24-02.38.13:761][  1]LogRenderer: Reallocating scene render targets to support 804x360 Format 10 NumSamples 1 (Frame:1).
+[2018.02.24-02.38.13:771][  1]LogAssetRegistry: Asset discovery search completed in 45.9317 seconds
+[2018.02.24-02.38.13:774][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.24-02.38.13:774][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000080 seconds (updated 0 objects)
+[2018.02.24-02.38.14:804][  3]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.24-02.38.53:564][463]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:358).
+[2018.02.24-02.39.36:363][989]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.24-02.39.36:363][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-02.39.36:365][989]PIE: New page: PIE session: VehicleExampleMap (Feb 23, 2018, 4:39:36 PM)
+[2018.02.24-02.39.36:365][989]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_1_VehicleExampleMap
+[2018.02.24-02.39.36:385][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020736s)
+[2018.02.24-02.39.36:386][989]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.02.24-02.39.36:386][989]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2018.02.24-02.39.36:387][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_1_VehicleExampleMap.VehicleExampleMap (0.021993s)
+[2018.02.24-02.39.36:401][989]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-02.39.36:410][989]LogInit: FAudioDevice initialized.
+[2018.02.24-02.39.36:451][989]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.02.24-02.39.36:456][989]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_1_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2018.02.23-21.39.36
+[2018.02.24-02.39.36:456][989]LogWorld: Bringing up level for play took: 0.002361
+[2018.02.24-02.39.36:509][989]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.02.24-02.39.36:509][989]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.24-02.39.36:509][989]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.02.24-02.39.36:509][989]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.24-02.39.36:509][989]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.02.24-02.39.36:511][989]LogInit: WinSock: I am DESKTOP-5MVEG7J (192.168.0.176:0)
+[2018.02.24-02.39.36:511][989]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.02.24-02.39.36:511][989]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2018.02.24-02.39.36:512][989]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_1_VehicleExampleMap -0.222
+[2018.02.24-02.39.36:513][989]PIE: New page: PIE session: VehicleExampleMap (Feb 23, 2018, 4:39:36 PM)
+[2018.02.24-02.39.36:555][989]LogNet: Browse: 127.0.0.1:17777//Game/VehicleBP/Maps/VehicleExampleMap
+[2018.02.24-02.39.36:555][989]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.24-02.39.36:555][989]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2018.02.24-02.39.36:555][989]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.02.24-02.39.36:555][989]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.02.24-02.39.36:555][989]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.02.24-02.39.36:556][989]LogNet: Game client on port 17777, rate 10000
+[2018.02.24-02.39.36:558][989]PIE: Play in editor start time for /Game/VehicleBP/Maps/VehicleExampleMap -0.175
+[2018.02.24-02.39.36:567][989]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.24-02.39.36:567][989]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53717
+[2018.02.24-02.39.36:567][989]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 207189231218227208090235027206180099182160019152070064127162
+[2018.02.24-02.39.36:600][989]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 207189231218227208090235027206180099182160019152070064127162
+[2018.02.24-02.39.36:646][990]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53717
+[2018.02.24-02.39.36:646][990]LogHandshake: SendChallengeAck. InCookie: 207189231218227208090235027206180099182160019152070064127162
+[2018.02.24-02.39.36:646][990]LogNet: Server accepting post-challenge connection from: 127.0.0.1:53717
+[2018.02.24-02.39.36:646][990]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.02.24-02.39.36:646][990]LogNet: NotifyAcceptedConnection: Name: VehicleExampleMap, TimeStamp: 02/23/18 21:39:36, [UNetConnection] RemoteAddr: 127.0.0.1:53717, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.02.24-02.39.36:647][990]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:53717, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.02.24-02.39.36:648][990]LogNetVersion: Project_DriftTank 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3572018546)
+[2018.02.24-02.39.36:648][990]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2018.02.24-02.39.36:659][991]LogNet: NotifyAcceptingChannel Control 0 server World /Game/VehicleBP/Maps/UEDPIE_1_VehicleExampleMap.VehicleExampleMap: Accepted
+[2018.02.24-02.39.36:659][991]LogNet: Remote platform little endian=1
+[2018.02.24-02.39.36:660][991]LogNet: This platform little endian=1
+[2018.02.24-02.39.36:666][992]LogNet: Login request: /Game/VehicleBP/Maps/VehicleExampleMap userId: Invalid
+[2018.02.24-02.39.36:666][992]LogNet: Welcomed by server (Level: /Game/VehicleBP/Maps/UEDPIE_1_VehicleExampleMap, Game: /Game/VehicleBP/Blueprints/VehicleGameMode.VehicleGameMode_C)
+[2018.02.24-02.39.36:667][992]LogLoad: LoadMap: 127.0.0.1:17777//Game/VehicleBP/Maps/UEDPIE_1_VehicleExampleMap?game=/Game/VehicleBP/Blueprints/VehicleGameMode.VehicleGameMode_C
+[2018.02.24-02.39.36:691][992]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.02.24-02.39.36:691][992]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.24-02.39.36:695][992]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_2_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2018.02.23-21.39.36
+[2018.02.24-02.39.36:695][992]LogWorld: Bringing up level for play took: 0.001442
+[2018.02.24-02.39.36:695][992]LogLoad: Took 0.028747 seconds to LoadMap(/Game/VehicleBP/Maps/UEDPIE_1_VehicleExampleMap)
+[2018.02.24-02.39.36:706][993]LogNet: Client netspeed is 10000
+[2018.02.24-02.39.36:706][993]LogNet: Join request: /Game/VehicleBP/Maps/VehicleExampleMap?SplitscreenCount=1
+[2018.02.24-02.39.36:708][993]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2018.02.24-02.39.36:708][993]LogScript: Warning: Accessed None trying to read property Parent Component Ref
+	BP_Hover_Component_C /Game/VehicleBP/Maps/UEDPIE_1_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Sedan_C_0.Hover_Component_FL
+	Function /Game/VehicleBP/Blueprints/Vehicle/BP_Hover_Component.BP_Hover_Component_C:ExecuteUbergraph_BP_Hover_Component:0559
+[2018.02.24-02.39.36:709][993]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Parent Component Ref from function: 'ExecuteUbergraph_BP_Hover_Component' from node: Set Simulate Physics in graph: EventGraph in object: BP_Hover_Component with description: Accessed None trying to read property Parent Component Ref
+[2018.02.24-02.39.36:709][993]LogNet: Join succeeded: 257
+[2018.02.24-02.39.36:787][  0]LogScript: Warning: Accessed None trying to read property Parent Component Ref
+	BP_Hover_Component_C /Game/VehicleBP/Maps/UEDPIE_2_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Sedan_C_0.Hover_Component_FL
+	Function /Game/VehicleBP/Blueprints/Vehicle/BP_Hover_Component.BP_Hover_Component_C:ExecuteUbergraph_BP_Hover_Component:0559
+[2018.02.24-02.39.36:787][  0]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Parent Component Ref from function: 'ExecuteUbergraph_BP_Hover_Component' from node: Set Simulate Physics in graph: EventGraph in object: BP_Hover_Component with description: Accessed None trying to read property Parent Component Ref
+[2018.02.24-02.39.59:631][741]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.24-02.39.59:702][741]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.24-02.39.59:712][741]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:53717, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.02.24-02.39.59:712][741]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:53717, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.02.24-02.39.59
+[2018.02.24-02.39.59:712][741]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:53717, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.02.24-02.39.59:712][741]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.02.24-02.39.59:712][741]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.02.24-02.39.59
+[2018.02.24-02.39.59:712][741]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.02.24-02.39.59:714][741]LogExit: GameNetDriver None shut down
+[2018.02.24-02.39.59:715][741]LogExit: GameNetDriver None shut down
+[2018.02.24-02.40.01:611][965]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.24-02.40.01:839][965]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.02.24-02.40.02:267][965]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.02.24-02.40.02:285][965]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.24-02.40.02:312][965]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2018.02.24-02.40.02:376][965]LogSlate: Took 0.001171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.24-02.40.02:557][966]LogSlate: Took 0.001585 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.24-02.40.22:239][188]LogRenderer: Reallocating scene render targets to support 1280x900 Format 10 NumSamples 1 (Frame:1).
+[2018.02.24-02.42.02:215][446]BlueprintLog: New page: Compile BP_Hover_Component
+[2018.02.24-02.42.03:769][622]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-02.42.03:782][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.24-02.42.03:782][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-02.42.03:784][622]PIE: New page: PIE session: VehicleExampleMap (Feb 23, 2018, 4:42:03 PM)
+[2018.02.24-02.42.03:784][622]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_1_VehicleExampleMap
+[2018.02.24-02.42.03:796][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012163s)
+[2018.02.24-02.42.03:797][622]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.02.24-02.42.03:797][622]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2018.02.24-02.42.03:797][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_1_VehicleExampleMap.VehicleExampleMap (0.013278s)
+[2018.02.24-02.42.03:817][622]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-02.42.03:826][622]LogInit: FAudioDevice initialized.
+[2018.02.24-02.42.03:860][622]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.02.24-02.42.03:863][622]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_1_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2018.02.23-21.42.03
+[2018.02.24-02.42.03:863][622]LogWorld: Bringing up level for play took: 0.001484
+[2018.02.24-02.42.03:864][622]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.24-02.42.03:864][622]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2018.02.24-02.42.03:864][622]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.24-02.42.03:864][622]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.02.24-02.42.03:864][622]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.02.24-02.42.03:864][622]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2018.02.24-02.42.03:865][622]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_1_VehicleExampleMap -0.869
+[2018.02.24-02.42.03:866][622]PIE: New page: PIE session: VehicleExampleMap (Feb 23, 2018, 4:42:03 PM)
+[2018.02.24-02.42.03:910][622]LogNet: Browse: 127.0.0.1:17777//Game/VehicleBP/Maps/VehicleExampleMap
+[2018.02.24-02.42.03:910][622]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.24-02.42.03:910][622]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2018.02.24-02.42.03:910][622]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.02.24-02.42.03:910][622]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.02.24-02.42.03:910][622]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.02.24-02.42.03:910][622]LogNet: Game client on port 17777, rate 10000
+[2018.02.24-02.42.03:913][622]PIE: Play in editor start time for /Game/VehicleBP/Maps/VehicleExampleMap -0.821
+[2018.02.24-02.42.03:922][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.24-02.42.03:922][622]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54829
+[2018.02.24-02.42.03:922][622]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 195010116129063112232034123086112160180164074254020144029151
+[2018.02.24-02.42.03:923][622]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 195010116129063112232034123086112160180164074254020144029151
+[2018.02.24-02.42.03:973][623]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54829
+[2018.02.24-02.42.03:973][623]LogHandshake: SendChallengeAck. InCookie: 195010116129063112232034123086112160180164074254020144029151
+[2018.02.24-02.42.03:973][623]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54829
+[2018.02.24-02.42.03:973][623]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.02.24-02.42.03:973][623]LogNet: NotifyAcceptedConnection: Name: VehicleExampleMap, TimeStamp: 02/23/18 21:42:03, [UNetConnection] RemoteAddr: 127.0.0.1:54829, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2018.02.24-02.42.03:973][623]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54829, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2018.02.24-02.42.03:974][623]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2018.02.24-02.42.03:981][624]LogNet: NotifyAcceptingChannel Control 0 server World /Game/VehicleBP/Maps/UEDPIE_1_VehicleExampleMap.VehicleExampleMap: Accepted
+[2018.02.24-02.42.03:981][624]LogNet: Remote platform little endian=1
+[2018.02.24-02.42.03:981][624]LogNet: This platform little endian=1
+[2018.02.24-02.42.03:989][625]LogNet: Login request: /Game/VehicleBP/Maps/VehicleExampleMap userId: Invalid
+[2018.02.24-02.42.03:989][625]LogNet: Welcomed by server (Level: /Game/VehicleBP/Maps/UEDPIE_1_VehicleExampleMap, Game: /Game/VehicleBP/Blueprints/VehicleGameMode.VehicleGameMode_C)
+[2018.02.24-02.42.03:989][625]LogLoad: LoadMap: 127.0.0.1:17777//Game/VehicleBP/Maps/UEDPIE_1_VehicleExampleMap?game=/Game/VehicleBP/Blueprints/VehicleGameMode.VehicleGameMode_C
+[2018.02.24-02.42.04:018][625]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.02.24-02.42.04:018][625]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.24-02.42.04:022][625]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_2_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2018.02.23-21.42.04
+[2018.02.24-02.42.04:022][625]LogWorld: Bringing up level for play took: 0.001488
+[2018.02.24-02.42.04:023][625]LogLoad: Took 0.032677 seconds to LoadMap(/Game/VehicleBP/Maps/UEDPIE_1_VehicleExampleMap)
+[2018.02.24-02.42.04:031][626]LogNet: Client netspeed is 10000
+[2018.02.24-02.42.04:031][626]LogNet: Join request: /Game/VehicleBP/Maps/VehicleExampleMap?SplitscreenCount=1
+[2018.02.24-02.42.04:032][626]LogScript: Warning: Accessed None trying to read property Parent Component Ref
+	BP_Hover_Component_C /Game/VehicleBP/Maps/UEDPIE_1_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Sedan_C_0.Hover_Component_FL
+	Function /Game/VehicleBP/Blueprints/Vehicle/BP_Hover_Component.BP_Hover_Component_C:ExecuteUbergraph_BP_Hover_Component:0711
+[2018.02.24-02.42.04:032][626]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Parent Component Ref from function: 'ExecuteUbergraph_BP_Hover_Component' from node: Set Simulate Physics in graph: EventGraph in object: BP_Hover_Component with description: Accessed None trying to read property Parent Component Ref
+[2018.02.24-02.42.04:033][626]LogNet: Join succeeded: 259
+[2018.02.24-02.42.04:125][637]LogScript: Warning: Accessed None trying to read property Parent Component Ref
+	BP_Hover_Component_C /Game/VehicleBP/Maps/UEDPIE_2_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Sedan_C_0.Hover_Component_FL
+	Function /Game/VehicleBP/Blueprints/Vehicle/BP_Hover_Component.BP_Hover_Component_C:ExecuteUbergraph_BP_Hover_Component:0711
+[2018.02.24-02.42.04:125][637]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Parent Component Ref from function: 'ExecuteUbergraph_BP_Hover_Component' from node: Set Simulate Physics in graph: EventGraph in object: BP_Hover_Component with description: Accessed None trying to read property Parent Component Ref
+[2018.02.24-02.42.04:858][725]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6351.749512
+[2018.02.24-02.42.04:858][725]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6484.836914
+[2018.02.24-02.42.04:858][725]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6491.50293
+[2018.02.24-02.42.04:858][725]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6413.961426
+[2018.02.24-02.42.04:858][725]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 6424.141113
+[2018.02.24-02.42.04:858][725]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6344.937012
+[2018.02.24-02.42.05:058][749]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6352.430176
+[2018.02.24-02.42.05:058][749]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6485.403809
+[2018.02.24-02.42.05:058][749]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6492.185059
+[2018.02.24-02.42.05:058][749]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.05:058][749]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.05:058][749]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6345.500977
+[2018.02.24-02.42.05:258][773]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6352.046387
+[2018.02.24-02.42.05:258][773]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6485.075684
+[2018.02.24-02.42.05:258][773]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6491.798828
+[2018.02.24-02.42.05:258][773]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6345.174805
+[2018.02.24-02.42.05:416][792]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6413.626953
+[2018.02.24-02.42.05:458][797]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6351.699707
+[2018.02.24-02.42.05:458][797]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6484.795898
+[2018.02.24-02.42.05:458][797]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6491.453613
+[2018.02.24-02.42.05:458][797]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6344.895996
+[2018.02.24-02.42.05:558][809]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 6425.013184
+[2018.02.24-02.42.05:616][816]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6413.598145
+[2018.02.24-02.42.05:658][821]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6351.891602
+[2018.02.24-02.42.05:658][821]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6484.966309
+[2018.02.24-02.42.05:658][821]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6491.645996
+[2018.02.24-02.42.05:658][821]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6345.065918
+[2018.02.24-02.42.05:758][833]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.05:816][840]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6413.524902
+[2018.02.24-02.42.05:858][845]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6352.028809
+[2018.02.24-02.42.05:858][845]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6485.088867
+[2018.02.24-02.42.05:858][845]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6491.783203
+[2018.02.24-02.42.05:858][845]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6345.187988
+[2018.02.24-02.42.06:016][864]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6413.539063
+[2018.02.24-02.42.06:058][869]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6351.899414
+[2018.02.24-02.42.06:058][869]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6484.983398
+[2018.02.24-02.42.06:058][869]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6491.653809
+[2018.02.24-02.42.06:058][869]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6345.083008
+[2018.02.24-02.42.06:216][888]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6413.58252
+[2018.02.24-02.42.06:258][893]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6351.841309
+[2018.02.24-02.42.06:258][893]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6484.931641
+[2018.02.24-02.42.06:258][893]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6491.595703
+[2018.02.24-02.42.06:258][893]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6345.03125
+[2018.02.24-02.42.06:324][901]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.06:416][912]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6414.076172
+[2018.02.24-02.42.06:458][917]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6349.057129
+[2018.02.24-02.42.06:458][917]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6487.878418
+[2018.02.24-02.42.06:458][917]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6489.013672
+[2018.02.24-02.42.06:458][917]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6347.897461
+[2018.02.24-02.42.06:616][936]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6454.536621
+[2018.02.24-02.42.06:658][941]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6325.906738
+[2018.02.24-02.42.06:658][941]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6508.034668
+[2018.02.24-02.42.06:658][941]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6457.971191
+[2018.02.24-02.42.06:658][941]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6377.007324
+[2018.02.24-02.42.06:775][955]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.06:816][960]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.06:858][965]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6317.142578
+[2018.02.24-02.42.06:858][965]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6513.254395
+[2018.02.24-02.42.06:858][965]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6437.953613
+[2018.02.24-02.42.06:858][965]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6393.865723
+[2018.02.24-02.42.07:033][986]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6486.594727
+[2018.02.24-02.42.07:058][989]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6313.822754
+[2018.02.24-02.42.07:058][989]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6513.914551
+[2018.02.24-02.42.07:058][989]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6428.21582
+[2018.02.24-02.42.07:058][989]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6401.053711
+[2018.02.24-02.42.07:091][993]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.07:233][ 10]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6486.611816
+[2018.02.24-02.42.07:258][ 13]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6312.882813
+[2018.02.24-02.42.07:258][ 13]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6514.280273
+[2018.02.24-02.42.07:258][ 13]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6424.154785
+[2018.02.24-02.42.07:258][ 13]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6404.574707
+[2018.02.24-02.42.07:433][ 34]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6470.675293
+[2018.02.24-02.42.07:458][ 37]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6282.318359
+[2018.02.24-02.42.07:458][ 37]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6483.998047
+[2018.02.24-02.42.07:458][ 37]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6392.683105
+[2018.02.24-02.42.07:458][ 37]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6375.215332
+[2018.02.24-02.42.07:550][ 48]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 6236.056641
+[2018.02.24-02.42.07:633][ 58]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.07:658][ 61]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6113.20166
+[2018.02.24-02.42.07:658][ 61]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6314.246094
+[2018.02.24-02.42.07:658][ 61]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6225.95752
+[2018.02.24-02.42.07:658][ 61]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6203.095215
+[2018.02.24-02.42.07:750][ 72]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 6051.478027
+[2018.02.24-02.42.07:858][ 85]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5900.684082
+[2018.02.24-02.42.07:858][ 85]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6101.084961
+[2018.02.24-02.42.07:858][ 85]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6017.253418
+[2018.02.24-02.42.07:858][ 85]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5986.147461
+[2018.02.24-02.42.07:949][ 96]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 5891.165039
+[2018.02.24-02.42.08:058][109]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5799.570801
+[2018.02.24-02.42.08:058][109]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5998.063965
+[2018.02.24-02.42.08:058][109]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5918.229004
+[2018.02.24-02.42.08:058][109]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5881.016113
+[2018.02.24-02.42.08:149][120]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 5811.45752
+[2018.02.24-02.42.08:258][133]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5752.916504
+[2018.02.24-02.42.08:258][133]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5949.982422
+[2018.02.24-02.42.08:258][133]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5872.57373
+[2018.02.24-02.42.08:258][133]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5831.913086
+[2018.02.24-02.42.08:350][144]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.08:458][157]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5769.369629
+[2018.02.24-02.42.08:458][157]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5966.720703
+[2018.02.24-02.42.08:458][157]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5888.697266
+[2018.02.24-02.42.08:458][157]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5848.986816
+[2018.02.24-02.42.08:508][163]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5953.644043
+[2018.02.24-02.42.08:658][181]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5919.540039
+[2018.02.24-02.42.08:658][181]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6119.261719
+[2018.02.24-02.42.08:658][181]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6035.952148
+[2018.02.24-02.42.08:658][181]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6004.469238
+[2018.02.24-02.42.08:708][187]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6115.606934
+[2018.02.24-02.42.08:858][205]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6073.236816
+[2018.02.24-02.42.08:858][205]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6275.063477
+[2018.02.24-02.42.08:858][205]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6186.443359
+[2018.02.24-02.42.08:858][205]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6163.486328
+[2018.02.24-02.42.08:908][211]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6250.789063
+[2018.02.24-02.42.09:058][229]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6099.811523
+[2018.02.24-02.42.09:058][229]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6301.84375
+[2018.02.24-02.42.09:058][229]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6212.458008
+[2018.02.24-02.42.09:058][229]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6190.82666
+[2018.02.24-02.42.09:108][235]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.09:258][253]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5961.243652
+[2018.02.24-02.42.09:258][253]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6160.90332
+[2018.02.24-02.42.09:258][253]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6076.466797
+[2018.02.24-02.42.09:259][253]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6047.290039
+[2018.02.24-02.42.09:458][277]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5820.168945
+[2018.02.24-02.42.09:458][277]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6019.004395
+[2018.02.24-02.42.09:458][277]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5938.099121
+[2018.02.24-02.42.09:458][277]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5902.689453
+[2018.02.24-02.42.09:658][301]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5773.28125
+[2018.02.24-02.42.09:659][301]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5971.432617
+[2018.02.24-02.42.09:659][301]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5892.137695
+[2018.02.24-02.42.09:659][301]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 5820.716797
+[2018.02.24-02.42.09:659][301]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5854.185547
+[2018.02.24-02.42.09:858][325]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5883.57666
+[2018.02.24-02.42.09:858][325]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6082.692383
+[2018.02.24-02.42.09:858][325]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6000.23584
+[2018.02.24-02.42.09:858][325]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.09:858][325]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5967.647461
+[2018.02.24-02.42.09:933][334]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6098.15918
+[2018.02.24-02.42.10:058][349]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5988.661133
+[2018.02.24-02.42.10:058][349]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6191.602539
+[2018.02.24-02.42.10:058][349]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6103.263672
+[2018.02.24-02.42.10:058][349]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6078.672852
+[2018.02.24-02.42.10:134][358]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6166.07373
+[2018.02.24-02.42.10:259][373]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5959.875977
+[2018.02.24-02.42.10:259][373]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6161.244629
+[2018.02.24-02.42.10:259][373]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6075.037598
+[2018.02.24-02.42.10:259][373]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6047.729004
+[2018.02.24-02.42.10:333][382]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.10:459][397]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5831.143555
+[2018.02.24-02.42.10:459][397]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6029.481445
+[2018.02.24-02.42.10:459][397]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5948.804688
+[2018.02.24-02.42.10:459][397]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5913.42627
+[2018.02.24-02.42.10:659][421]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5783.774414
+[2018.02.24-02.42.10:659][421]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5982.197266
+[2018.02.24-02.42.10:659][421]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5902.361328
+[2018.02.24-02.42.10:659][421]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5865.224121
+[2018.02.24-02.42.10:833][442]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 5900.678711
+[2018.02.24-02.42.10:858][445]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5893.554688
+[2018.02.24-02.42.10:858][445]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6092.58252
+[2018.02.24-02.42.10:858][445]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6009.976074
+[2018.02.24-02.42.10:858][445]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5977.77002
+[2018.02.24-02.42.11:059][469]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5978.766602
+[2018.02.24-02.42.11:059][469]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6180.370605
+[2018.02.24-02.42.11:059][469]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6093.519043
+[2018.02.24-02.42.11:059][469]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6067.266113
+[2018.02.24-02.42.11:066][470]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6138.749512
+[2018.02.24-02.42.11:258][493]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5893.115234
+[2018.02.24-02.42.11:258][493]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6093.157227
+[2018.02.24-02.42.11:258][493]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6009.505371
+[2018.02.24-02.42.11:258][493]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5978.398926
+[2018.02.24-02.42.11:267][494]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.11:459][517]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5780.339355
+[2018.02.24-02.42.11:459][517]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5978.112305
+[2018.02.24-02.42.11:459][517]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5898.958496
+[2018.02.24-02.42.11:459][517]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5861.094727
+[2018.02.24-02.42.11:658][541]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5793.007324
+[2018.02.24-02.42.11:658][541]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5991.333984
+[2018.02.24-02.42.11:658][541]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5911.353027
+[2018.02.24-02.42.11:659][541]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5874.598145
+[2018.02.24-02.42.11:800][558]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.11:858][565]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5920.782715
+[2018.02.24-02.42.11:858][565]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6120.3125
+[2018.02.24-02.42.11:858][565]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6036.616211
+[2018.02.24-02.42.11:859][565]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6006.094727
+[2018.02.24-02.42.12:000][582]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6124.67627
+[2018.02.24-02.42.12:058][589]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5956.754395
+[2018.02.24-02.42.12:058][589]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6158.375977
+[2018.02.24-02.42.12:058][589]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6071.861328
+[2018.02.24-02.42.12:059][589]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6044.921875
+[2018.02.24-02.42.12:200][606]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.12:258][613]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5836.152344
+[2018.02.24-02.42.12:258][613]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6034.896973
+[2018.02.24-02.42.12:258][613]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5953.608398
+[2018.02.24-02.42.12:259][613]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5919.056152
+[2018.02.24-02.42.12:458][637]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5751.72998
+[2018.02.24-02.42.12:458][637]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5949.380859
+[2018.02.24-02.42.12:458][637]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5870.864258
+[2018.02.24-02.42.12:458][637]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5831.850586
+[2018.02.24-02.42.12:659][661]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5780.517578
+[2018.02.24-02.42.12:659][661]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5978.586426
+[2018.02.24-02.42.12:659][661]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5899.059082
+[2018.02.24-02.42.12:659][661]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5861.65332
+[2018.02.24-02.42.12:717][668]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 5848.510742
+[2018.02.24-02.42.12:859][685]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5933.386719
+[2018.02.24-02.42.12:859][685]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6133.583008
+[2018.02.24-02.42.12:859][685]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6048.912109
+[2018.02.24-02.42.12:859][685]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6019.685059
+[2018.02.24-02.42.12:917][692]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.12:950][696]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6145.896973
+[2018.02.24-02.42.13:059][709]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6016.535645
+[2018.02.24-02.42.13:059][709]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6223.030273
+[2018.02.24-02.42.13:059][709]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6110.908691
+[2018.02.24-02.42.13:059][709]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6130.427734
+[2018.02.24-02.42.13:150][720]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6223.319336
+[2018.02.24-02.42.13:259][733]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6044.338867
+[2018.02.24-02.42.13:259][733]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6202.922363
+[2018.02.24-02.42.13:259][733]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6054.946289
+[2018.02.24-02.42.13:259][733]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6192.600586
+[2018.02.24-02.42.13:350][744]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.13:459][757]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6081.839355
+[2018.02.24-02.42.13:459][757]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6085.700195
+[2018.02.24-02.42.13:459][757]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5980.731445
+[2018.02.24-02.42.13:459][757]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6185.103027
+[2018.02.24-02.42.13:583][772]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 6012.726074
+[2018.02.24-02.42.13:659][781]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6072.465332
+[2018.02.24-02.42.13:659][781]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5940.098633
+[2018.02.24-02.42.13:659][781]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5931.517578
+[2018.02.24-02.42.13:659][781]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6080.869141
+[2018.02.24-02.42.13:784][796]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5946.725586
+[2018.02.24-02.42.13:784][796]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 5983.881836
+[2018.02.24-02.42.13:859][805]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6051.055176
+[2018.02.24-02.42.13:859][805]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5875.066895
+[2018.02.24-02.42.13:859][805]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5917.185059
+[2018.02.24-02.42.13:859][805]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6009.894043
+[2018.02.24-02.42.13:984][820]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.13:984][820]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 6023.765137
+[2018.02.24-02.42.14:059][829]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6121.858398
+[2018.02.24-02.42.14:059][829]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5934.14502
+[2018.02.24-02.42.14:059][829]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5993.724609
+[2018.02.24-02.42.14:059][829]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6063.537109
+[2018.02.24-02.42.14:184][844]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 6147.018555
+[2018.02.24-02.42.14:258][853]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6267.689941
+[2018.02.24-02.42.14:259][853]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6075.321777
+[2018.02.24-02.42.14:259][853]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6143.499512
+[2018.02.24-02.42.14:259][853]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6200.878418
+[2018.02.24-02.42.14:384][868]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 6329.64209
+[2018.02.24-02.42.14:442][875]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6283.740723
+[2018.02.24-02.42.14:458][877]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6466.298828
+[2018.02.24-02.42.14:458][877]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6269.799805
+[2018.02.24-02.42.14:458][877]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6346.407715
+[2018.02.24-02.42.14:458][877]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6391.128906
+[2018.02.24-02.42.14:584][892]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 6555.452148
+[2018.02.24-02.42.14:642][899]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.14:658][901]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6699.539551
+[2018.02.24-02.42.14:658][901]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6499.744141
+[2018.02.24-02.42.14:659][901]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6584.095703
+[2018.02.24-02.42.14:659][901]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6616.659668
+[2018.02.24-02.42.14:784][916]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 6807.114258
+[2018.02.24-02.42.14:859][925]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6958.349121
+[2018.02.24-02.42.14:859][925]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6756.647461
+[2018.02.24-02.42.14:859][925]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6847.337402
+[2018.02.24-02.42.14:860][925]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6869.125
+[2018.02.24-02.42.14:976][939]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.14:984][940]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 7082.784668
+[2018.02.24-02.42.15:059][949]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7238.823242
+[2018.02.24-02.42.15:059][949]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7035.354004
+[2018.02.24-02.42.15:059][949]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7132.203125
+[2018.02.24-02.42.15:059][949]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7143.419434
+[2018.02.24-02.42.15:184][964]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 7334.029297
+[2018.02.24-02.42.15:259][973]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7434.96582
+[2018.02.24-02.42.15:259][973]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7230.216797
+[2018.02.24-02.42.15:259][973]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7331.197754
+[2018.02.24-02.42.15:259][973]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7335.411133
+[2018.02.24-02.42.15:384][988]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 7466.249512
+[2018.02.24-02.42.15:459][997]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7526.676758
+[2018.02.24-02.42.15:459][997]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7322.458496
+[2018.02.24-02.42.15:459][997]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7425.011719
+[2018.02.24-02.42.15:459][997]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7425.524414
+[2018.02.24-02.42.15:584][ 12]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 7569.137207
+[2018.02.24-02.42.15:659][ 21]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7591.999023
+[2018.02.24-02.42.15:659][ 21]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7395.888184
+[2018.02.24-02.42.15:659][ 21]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7527.498047
+[2018.02.24-02.42.15:659][ 21]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7461.526855
+[2018.02.24-02.42.15:784][ 36]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.15:859][ 45]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7621.4375
+[2018.02.24-02.42.15:859][ 45]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7440.866699
+[2018.02.24-02.42.15:859][ 45]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7583.807617
+[2018.02.24-02.42.15:859][ 45]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7414.350098
+[2018.02.24-02.42.15:859][ 45]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7479.215332
+[2018.02.24-02.42.16:059][ 69]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7631.582031
+[2018.02.24-02.42.16:059][ 69]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7460.513184
+[2018.02.24-02.42.16:059][ 69]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7606.473145
+[2018.02.24-02.42.16:059][ 69]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7428.865234
+[2018.02.24-02.42.16:059][ 69]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7486.11084
+[2018.02.24-02.42.16:259][ 93]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7638.891113
+[2018.02.24-02.42.16:259][ 93]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7494.986816
+[2018.02.24-02.42.16:260][ 93]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7642.88916
+[2018.02.24-02.42.16:260][ 93]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7443.723633
+[2018.02.24-02.42.16:260][ 93]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7490.910645
+[2018.02.24-02.42.16:401][110]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 7724.504883
+[2018.02.24-02.42.16:459][117]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7640.390625
+[2018.02.24-02.42.16:459][117]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7615.104004
+[2018.02.24-02.42.16:459][117]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7728.73877
+[2018.02.24-02.42.16:459][117]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.16:459][117]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7525.424316
+[2018.02.24-02.42.16:601][134]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 7711.147949
+[2018.02.24-02.42.16:660][141]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7623.056641
+[2018.02.24-02.42.16:660][141]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7762.279297
+[2018.02.24-02.42.16:660][141]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7763.199707
+[2018.02.24-02.42.16:660][141]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7622.121094
+[2018.02.24-02.42.16:801][158]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 7636.177246
+[2018.02.24-02.42.16:860][165]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7617.662109
+[2018.02.24-02.42.16:860][165]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7819.170898
+[2018.02.24-02.42.16:860][165]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7698.137207
+[2018.02.24-02.42.16:860][165]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7739.952637
+[2018.02.24-02.42.16:876][167]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7828.211426
+[2018.02.24-02.42.17:001][182]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.17:059][189]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7647.913574
+[2018.02.24-02.42.17:059][189]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7728.014648
+[2018.02.24-02.42.17:059][189]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7591.747559
+[2018.02.24-02.42.17:059][189]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7783.196289
+[2018.02.24-02.42.17:076][191]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.17:259][213]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7686.04541
+[2018.02.24-02.42.17:259][213]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7571.116211
+[2018.02.24-02.42.17:259][213]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7547.533203
+[2018.02.24-02.42.17:259][213]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7709.205078
+[2018.02.24-02.42.17:318][220]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 7617.741211
+[2018.02.24-02.42.17:334][222]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7591.276855
+[2018.02.24-02.42.17:459][237]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7691.447754
+[2018.02.24-02.42.17:459][237]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7502.900391
+[2018.02.24-02.42.17:459][237]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7564.258301
+[2018.02.24-02.42.17:459][237]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7631.119141
+[2018.02.24-02.42.17:518][244]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 7671.794434
+[2018.02.24-02.42.17:534][246]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.17:660][261]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7806.088379
+[2018.02.24-02.42.17:660][261]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7603.551758
+[2018.02.24-02.42.17:660][261]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7699.534668
+[2018.02.24-02.42.17:660][261]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7711.451172
+[2018.02.24-02.42.17:718][268]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 7816.848145
+[2018.02.24-02.42.17:859][285]LogBlueprintUserMessages: [Hover_Component_RL] Server: 8032.314941
+[2018.02.24-02.42.17:859][285]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7827.929688
+[2018.02.24-02.42.17:859][285]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7932.065918
+[2018.02.24-02.42.17:859][285]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7929.495605
+[2018.02.24-02.42.17:876][287]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7861.502441
+[2018.02.24-02.42.17:918][292]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 8067.966797
+[2018.02.24-02.42.18:059][309]LogBlueprintUserMessages: [Hover_Component_RL] Server: 8318.821289
+[2018.02.24-02.42.18:059][309]LogBlueprintUserMessages: [Hover_Component_FR] Server: 8113.696289
+[2018.02.24-02.42.18:059][309]LogBlueprintUserMessages: [Hover_Component_RR] Server: 8222.896484
+[2018.02.24-02.42.18:059][309]LogBlueprintUserMessages: [Hover_Component_FL] Server: 8210.895508
+[2018.02.24-02.42.18:076][311]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.18:118][316]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 8367.68457
+[2018.02.24-02.42.18:259][333]LogBlueprintUserMessages: [Hover_Component_RL] Server: 8635.134766
+[2018.02.24-02.42.18:259][333]LogBlueprintUserMessages: [Hover_Component_FR] Server: 8430.495117
+[2018.02.24-02.42.18:259][333]LogBlueprintUserMessages: [Hover_Component_RR] Server: 8543.050781
+[2018.02.24-02.42.18:259][333]LogBlueprintUserMessages: [Hover_Component_FL] Server: 8523.794922
+[2018.02.24-02.42.18:318][340]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 8692.152344
+[2018.02.24-02.42.18:418][352]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.18:460][357]LogBlueprintUserMessages: [Hover_Component_RL] Server: 8972.626953
+[2018.02.24-02.42.18:460][357]LogBlueprintUserMessages: [Hover_Component_FR] Server: 8768.015625
+[2018.02.24-02.42.18:460][357]LogBlueprintUserMessages: [Hover_Component_RR] Server: 8884.181641
+[2018.02.24-02.42.18:460][357]LogBlueprintUserMessages: [Hover_Component_FL] Server: 8857.621094
+[2018.02.24-02.42.18:518][364]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 9036.62793
+[2018.02.24-02.42.18:660][381]LogBlueprintUserMessages: [Hover_Component_RL] Server: 9281.458008
+[2018.02.24-02.42.18:660][381]LogBlueprintUserMessages: [Hover_Component_FR] Server: 9076.999023
+[2018.02.24-02.42.18:660][381]LogBlueprintUserMessages: [Hover_Component_RR] Server: 9196.036133
+[2018.02.24-02.42.18:660][381]LogBlueprintUserMessages: [Hover_Component_FL] Server: 9163.529297
+[2018.02.24-02.42.18:718][388]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 9306.713867
+[2018.02.24-02.42.18:860][405]LogBlueprintUserMessages: [Hover_Component_RL] Server: 9359.833984
+[2018.02.24-02.42.18:860][405]LogBlueprintUserMessages: [Hover_Component_FR] Server: 9155.894531
+[2018.02.24-02.42.18:860][405]LogBlueprintUserMessages: [Hover_Component_RR] Server: 9275.141602
+[2018.02.24-02.42.18:860][405]LogBlueprintUserMessages: [Hover_Component_FL] Server: 9241.678711
+[2018.02.24-02.42.18:918][412]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.19:059][429]LogBlueprintUserMessages: [Hover_Component_RL] Server: 9188.657227
+[2018.02.24-02.42.19:059][429]LogBlueprintUserMessages: [Hover_Component_FR] Server: 8985.666992
+[2018.02.24-02.42.19:059][429]LogBlueprintUserMessages: [Hover_Component_RR] Server: 9102.419922
+[2018.02.24-02.42.19:060][429]LogBlueprintUserMessages: [Hover_Component_FL] Server: 9073.014648
+[2018.02.24-02.42.19:259][453]LogBlueprintUserMessages: [Hover_Component_RL] Server: 8894.851563
+[2018.02.24-02.42.19:259][453]LogBlueprintUserMessages: [Hover_Component_FR] Server: 8689.071289
+[2018.02.24-02.42.19:259][453]LogBlueprintUserMessages: [Hover_Component_RR] Server: 8805.743164
+[2018.02.24-02.42.19:259][453]LogBlueprintUserMessages: [Hover_Component_FL] Server: 8779.366211
+[2018.02.24-02.42.19:376][467]LogBlueprintUserMessages: [BP_Hover_Component] Server: 8563.12207
+[2018.02.24-02.42.19:459][477]LogBlueprintUserMessages: [Hover_Component_RL] Server: 8607.698242
+[2018.02.24-02.42.19:459][477]LogBlueprintUserMessages: [Hover_Component_FR] Server: 8403.136719
+[2018.02.24-02.42.19:459][477]LogBlueprintUserMessages: [Hover_Component_RR] Server: 8515.542969
+[2018.02.24-02.42.19:460][477]LogBlueprintUserMessages: [Hover_Component_FL] Server: 8496.510742
+[2018.02.24-02.42.19:576][491]LogBlueprintUserMessages: [BP_Hover_Component] Server: 8270.025391
+[2018.02.24-02.42.19:634][498]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.19:660][501]LogBlueprintUserMessages: [Hover_Component_RL] Server: 8304.65918
+[2018.02.24-02.42.19:660][501]LogBlueprintUserMessages: [Hover_Component_FR] Server: 8099.68457
+[2018.02.24-02.42.19:660][501]LogBlueprintUserMessages: [Hover_Component_RR] Server: 8209.083008
+[2018.02.24-02.42.19:660][501]LogBlueprintUserMessages: [Hover_Component_FL] Server: 8196.536133
+[2018.02.24-02.42.19:776][515]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7964.855957
+[2018.02.24-02.42.19:859][525]LogBlueprintUserMessages: [Hover_Component_RL] Server: 8004.322754
+[2018.02.24-02.42.19:859][525]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7798.852539
+[2018.02.24-02.42.19:859][525]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7905.084473
+[2018.02.24-02.42.19:859][525]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7899.425781
+[2018.02.24-02.42.19:976][539]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7674.501465
+[2018.02.24-02.42.20:059][549]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7716.057129
+[2018.02.24-02.42.20:059][549]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7511.590332
+[2018.02.24-02.42.20:059][549]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7613.03125
+[2018.02.24-02.42.20:060][549]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7615.988281
+[2018.02.24-02.42.20:176][563]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7396.61377
+[2018.02.24-02.42.20:259][573]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7436.748047
+[2018.02.24-02.42.20:259][573]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7233.589355
+[2018.02.24-02.42.20:259][573]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7329.775879
+[2018.02.24-02.42.20:259][573]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7341.962402
+[2018.02.24-02.42.20:377][587]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7126.415039
+[2018.02.24-02.42.20:460][597]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7168.44873
+[2018.02.24-02.42.20:460][597]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6966.485352
+[2018.02.24-02.42.20:460][597]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7057.39209
+[2018.02.24-02.42.20:460][597]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.20:460][597]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7078.967773
+[2018.02.24-02.42.20:576][611]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6870.753418
+[2018.02.24-02.42.20:660][621]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6917.057617
+[2018.02.24-02.42.20:660][621]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6717.009766
+[2018.02.24-02.42.20:660][621]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6801.875977
+[2018.02.24-02.42.20:660][621]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6833.622559
+[2018.02.24-02.42.20:776][635]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6636.178223
+[2018.02.24-02.42.20:859][645]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6696.277344
+[2018.02.24-02.42.20:860][645]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6497.953613
+[2018.02.24-02.42.20:860][645]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6578.515625
+[2018.02.24-02.42.20:860][645]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6617.148926
+[2018.02.24-02.42.20:976][659]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6452.686035
+[2018.02.24-02.42.21:059][669]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6534.638672
+[2018.02.24-02.42.21:059][669]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6334.911621
+[2018.02.24-02.42.21:059][669]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6418.960449
+[2018.02.24-02.42.21:059][669]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6452.098145
+[2018.02.24-02.42.21:176][683]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6292.467285
+[2018.02.24-02.42.21:260][693]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6359.588867
+[2018.02.24-02.42.21:260][693]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6162.851074
+[2018.02.24-02.42.21:260][693]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6239.885254
+[2018.02.24-02.42.21:260][693]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6284.022461
+[2018.02.24-02.42.21:376][707]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6118.308105
+[2018.02.24-02.42.21:460][717]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6194.802246
+[2018.02.24-02.42.21:460][717]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5997.92627
+[2018.02.24-02.42.21:460][717]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6075.316406
+[2018.02.24-02.42.21:460][717]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6118.923828
+[2018.02.24-02.42.21:576][731]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5971.34082
+[2018.02.24-02.42.21:660][741]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6067.899902
+[2018.02.24-02.42.21:660][741]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5864.986328
+[2018.02.24-02.42.21:660][741]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5958.555176
+[2018.02.24-02.42.21:660][741]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5976.042969
+[2018.02.24-02.42.21:776][755]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5835.882324
+[2018.02.24-02.42.21:860][765]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5942.821777
+[2018.02.24-02.42.21:860][765]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5736.989746
+[2018.02.24-02.42.21:860][765]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5843.065918
+[2018.02.24-02.42.21:860][765]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5838.558105
+[2018.02.24-02.42.21:976][779]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5682.06543
+[2018.02.24-02.42.22:060][789]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5758.631836
+[2018.02.24-02.42.22:060][789]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5554.388184
+[2018.02.24-02.42.22:060][789]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5654.245117
+[2018.02.24-02.42.22:060][789]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5660.616699
+[2018.02.24-02.42.22:176][803]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5476.655273
+[2018.02.24-02.42.22:260][813]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5532.268555
+[2018.02.24-02.42.22:260][813]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5330.178223
+[2018.02.24-02.42.22:260][813]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5422.661133
+[2018.02.24-02.42.22:260][813]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5441.648438
+[2018.02.24-02.42.22:351][824]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.22:376][827]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5245.550293
+[2018.02.24-02.42.22:460][837]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5297.686035
+[2018.02.24-02.42.22:460][837]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5097.48877
+[2018.02.24-02.42.22:460][837]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5182.830566
+[2018.02.24-02.42.22:460][837]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5214.224121
+[2018.02.24-02.42.22:576][851]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5029.481445
+[2018.02.24-02.42.22:660][861]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5114.333984
+[2018.02.24-02.42.22:660][861]LogBlueprintUserMessages: [Hover_Component_FR] Server: 4916.58252
+[2018.02.24-02.42.22:660][861]LogBlueprintUserMessages: [Hover_Component_RR] Server: 4995.105957
+[2018.02.24-02.42.22:660][861]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5037.67041
+[2018.02.24-02.42.22:776][875]LogBlueprintUserMessages: [BP_Hover_Component] Server: 4917.217773
+[2018.02.24-02.42.22:860][885]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5035.199219
+[2018.02.24-02.42.22:860][885]LogBlueprintUserMessages: [Hover_Component_FR] Server: 4839.072754
+[2018.02.24-02.42.22:860][885]LogBlueprintUserMessages: [Hover_Component_RR] Server: 4914.042969
+[2018.02.24-02.42.22:860][885]LogBlueprintUserMessages: [Hover_Component_FL] Server: 4962.067871
+[2018.02.24-02.42.22:976][899]LogBlueprintUserMessages: [BP_Hover_Component] Server: 4863.891113
+[2018.02.24-02.42.23:060][909]LogBlueprintUserMessages: [Hover_Component_RL] Server: 4997.191406
+[2018.02.24-02.42.23:060][909]LogBlueprintUserMessages: [Hover_Component_FR] Server: 4803.131836
+[2018.02.24-02.42.23:060][909]LogBlueprintUserMessages: [Hover_Component_RR] Server: 4875.050781
+[2018.02.24-02.42.23:060][909]LogBlueprintUserMessages: [Hover_Component_FL] Server: 4927.061035
+[2018.02.24-02.42.23:176][923]LogBlueprintUserMessages: [BP_Hover_Component] Server: 4834.178711
+[2018.02.24-02.42.23:260][933]LogBlueprintUserMessages: [Hover_Component_RL] Server: 4978.643555
+[2018.02.24-02.42.23:260][933]LogBlueprintUserMessages: [Hover_Component_FR] Server: 4785.552734
+[2018.02.24-02.42.23:260][933]LogBlueprintUserMessages: [Hover_Component_RR] Server: 4855.986816
+[2018.02.24-02.42.23:260][933]LogBlueprintUserMessages: [Hover_Component_FL] Server: 4909.970215
+[2018.02.24-02.42.23:377][947]LogBlueprintUserMessages: [BP_Hover_Component] Server: 4818.753906
+[2018.02.24-02.42.23:460][957]LogBlueprintUserMessages: [Hover_Component_RL] Server: 4971.571289
+[2018.02.24-02.42.23:460][957]LogBlueprintUserMessages: [Hover_Component_FR] Server: 4778.680664
+[2018.02.24-02.42.23:460][957]LogBlueprintUserMessages: [Hover_Component_RR] Server: 4848.722656
+[2018.02.24-02.42.23:460][957]LogBlueprintUserMessages: [Hover_Component_FL] Server: 4903.28418
+[2018.02.24-02.42.23:468][958]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 4939.811523
+[2018.02.24-02.42.23:576][971]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.23:660][981]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5056.067871
+[2018.02.24-02.42.23:660][981]LogBlueprintUserMessages: [Hover_Component_FR] Server: 4861.229004
+[2018.02.24-02.42.23:660][981]LogBlueprintUserMessages: [Hover_Component_RR] Server: 4935.320801
+[2018.02.24-02.42.23:660][981]LogBlueprintUserMessages: [Hover_Component_FL] Server: 4983.771484
+[2018.02.24-02.42.23:668][982]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 5031.039063
+[2018.02.24-02.42.23:860][  5]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5244.753418
+[2018.02.24-02.42.23:860][  5]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5045.921875
+[2018.02.24-02.42.23:860][  5]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5128.433594
+[2018.02.24-02.42.23:860][  5]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5164.098633
+[2018.02.24-02.42.23:868][  6]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 5204.77832
+[2018.02.24-02.42.24:060][ 29]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5480.994141
+[2018.02.24-02.42.24:060][ 29]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5279.814453
+[2018.02.24-02.42.24:060][ 29]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5368.996094
+[2018.02.24-02.42.24:060][ 29]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5393.665039
+[2018.02.24-02.42.24:068][ 30]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 5440.341797
+[2018.02.24-02.42.24:226][ 49]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.24:260][ 53]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5751.806152
+[2018.02.24-02.42.24:260][ 53]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5548.469727
+[2018.02.24-02.42.24:260][ 53]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5645.121094
+[2018.02.24-02.42.24:260][ 53]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5656.978027
+[2018.02.24-02.42.24:269][ 54]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 5715.983887
+[2018.02.24-02.42.24:460][ 77]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6047.480469
+[2018.02.24-02.42.24:460][ 77]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5843.102051
+[2018.02.24-02.42.24:460][ 77]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5946.05957
+[2018.02.24-02.42.24:460][ 77]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5946.278809
+[2018.02.24-02.42.24:468][ 78]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 6015.236816
+[2018.02.24-02.42.24:660][101]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6363.540527
+[2018.02.24-02.42.24:661][101]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6158.656738
+[2018.02.24-02.42.24:661][101]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6267.209961
+[2018.02.24-02.42.24:661][101]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6256.659668
+[2018.02.24-02.42.24:668][102]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 6335.121582
+[2018.02.24-02.42.24:677][103]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.24:860][125]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6695.518555
+[2018.02.24-02.42.24:860][125]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6490.809082
+[2018.02.24-02.42.24:860][125]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6604.003418
+[2018.02.24-02.42.24:860][125]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6583.897461
+[2018.02.24-02.42.24:868][126]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 6670.062012
+[2018.02.24-02.42.25:060][149]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7041.621094
+[2018.02.24-02.42.25:060][149]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6837.272949
+[2018.02.24-02.42.25:060][149]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6954.639648
+[2018.02.24-02.42.25:060][149]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6925.728516
+[2018.02.24-02.42.25:069][150]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.25:069][150]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 7019.485352
+[2018.02.24-02.42.25:260][173]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7372.891113
+[2018.02.24-02.42.25:260][173]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7169.083008
+[2018.02.24-02.42.25:260][173]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7289.847656
+[2018.02.24-02.42.25:260][173]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7253.509277
+[2018.02.24-02.42.25:268][174]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 7349.246582
+[2018.02.24-02.42.25:460][197]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7544.834473
+[2018.02.24-02.42.25:460][197]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7341.131348
+[2018.02.24-02.42.25:460][197]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7463.670898
+[2018.02.24-02.42.25:460][197]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7423.632324
+[2018.02.24-02.42.25:468][198]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 7527.964355
+[2018.02.24-02.42.25:660][221]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7626.417969
+[2018.02.24-02.42.25:660][221]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7424.334473
+[2018.02.24-02.42.25:660][221]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7546.147949
+[2018.02.24-02.42.25:660][221]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7505.905273
+[2018.02.24-02.42.25:668][222]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 7627.668457
+[2018.02.24-02.42.25:860][245]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7667.74707
+[2018.02.24-02.42.25:860][245]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7466.135254
+[2018.02.24-02.42.25:860][245]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7587.943359
+[2018.02.24-02.42.25:860][245]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7547.228027
+[2018.02.24-02.42.25:868][246]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.25:985][260]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7486.140137
+[2018.02.24-02.42.26:060][269]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7680.322266
+[2018.02.24-02.42.26:060][269]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7476.830566
+[2018.02.24-02.42.26:060][269]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7592.488281
+[2018.02.24-02.42.26:060][269]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7566.006836
+[2018.02.24-02.42.26:185][284]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7503.640625
+[2018.02.24-02.42.26:260][293]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7636.80957
+[2018.02.24-02.42.26:260][293]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7455.268066
+[2018.02.24-02.42.26:260][293]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7504.963379
+[2018.02.24-02.42.26:260][293]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7587.970215
+[2018.02.24-02.42.26:385][308]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7524.057129
+[2018.02.24-02.42.26:460][317]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7577.376953
+[2018.02.24-02.42.26:460][317]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7455.34082
+[2018.02.24-02.42.26:460][317]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7438.114746
+[2018.02.24-02.42.26:460][317]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7594.27832
+[2018.02.24-02.42.26:535][326]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.26:585][332]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7543.293945
+[2018.02.24-02.42.26:660][341]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7601.406738
+[2018.02.24-02.42.26:660][341]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7492.453125
+[2018.02.24-02.42.26:660][341]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7463.755371
+[2018.02.24-02.42.26:660][341]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7629.586426
+[2018.02.24-02.42.26:785][356]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7595.228027
+[2018.02.24-02.42.26:835][362]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.26:860][365]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7665.413086
+[2018.02.24-02.42.26:860][365]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7525.197754
+[2018.02.24-02.42.26:860][365]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7525.414063
+[2018.02.24-02.42.26:860][365]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7665.194336
+[2018.02.24-02.42.26:985][380]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7594.709473
+[2018.02.24-02.42.27:060][389]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7674.734375
+[2018.02.24-02.42.27:060][389]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7518.71875
+[2018.02.24-02.42.27:061][389]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7535.834961
+[2018.02.24-02.42.27:061][389]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7657.934082
+[2018.02.24-02.42.27:185][404]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7553.15625
+[2018.02.24-02.42.27:261][413]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7720.448242
+[2018.02.24-02.42.27:261][413]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7526.36377
+[2018.02.24-02.42.27:261][413]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7598.348145
+[2018.02.24-02.42.27:261][413]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7649.613281
+[2018.02.24-02.42.27:460][437]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7875.603027
+[2018.02.24-02.42.27:460][437]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7672.337402
+[2018.02.24-02.42.27:460][437]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7770.802246
+[2018.02.24-02.42.27:461][437]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7778.475586
+[2018.02.24-02.42.27:519][444]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 7899.78125
+[2018.02.24-02.42.27:660][461]LogBlueprintUserMessages: [Hover_Component_RL] Server: 8103.750977
+[2018.02.24-02.42.27:661][461]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7899.494141
+[2018.02.24-02.42.27:661][461]LogBlueprintUserMessages: [Hover_Component_RR] Server: 8008.561523
+[2018.02.24-02.42.27:661][461]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7995.97998
+[2018.02.24-02.42.27:719][468]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 8115.074707
+[2018.02.24-02.42.27:727][469]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7961.400391
+[2018.02.24-02.42.27:860][485]LogBlueprintUserMessages: [Hover_Component_RL] Server: 8225.621094
+[2018.02.24-02.42.27:860][485]LogBlueprintUserMessages: [Hover_Component_FR] Server: 8021.77832
+[2018.02.24-02.42.27:860][485]LogBlueprintUserMessages: [Hover_Component_RR] Server: 8135.504395
+[2018.02.24-02.42.27:861][485]LogBlueprintUserMessages: [Hover_Component_FL] Server: 8113.166016
+[2018.02.24-02.42.27:919][492]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 8234.672852
+[2018.02.24-02.42.27:927][493]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.28:060][509]LogBlueprintUserMessages: [Hover_Component_RL] Server: 8284.265625
+[2018.02.24-02.42.28:060][509]LogBlueprintUserMessages: [Hover_Component_FR] Server: 8081.379395
+[2018.02.24-02.42.28:060][509]LogBlueprintUserMessages: [Hover_Component_RR] Server: 8198.68457
+[2018.02.24-02.42.28:060][509]LogBlueprintUserMessages: [Hover_Component_FL] Server: 8168.195313
+[2018.02.24-02.42.28:119][516]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 8312.160156
+[2018.02.24-02.42.28:260][533]LogBlueprintUserMessages: [Hover_Component_RL] Server: 8334.114258
+[2018.02.24-02.42.28:260][533]LogBlueprintUserMessages: [Hover_Component_FR] Server: 8161.865723
+[2018.02.24-02.42.28:260][533]LogBlueprintUserMessages: [Hover_Component_RR] Server: 8307.294922
+[2018.02.24-02.42.28:260][533]LogBlueprintUserMessages: [Hover_Component_FL] Server: 8189.160645
+[2018.02.24-02.42.28:319][540]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 8401.986328
+[2018.02.24-02.42.28:444][555]LogBlueprintUserMessages: [BP_Hover_Component] Server: 8210.804688
+[2018.02.24-02.42.28:460][557]LogBlueprintUserMessages: [Hover_Component_RL] Server: 8351.604492
+[2018.02.24-02.42.28:460][557]LogBlueprintUserMessages: [Hover_Component_FR] Server: 8308.041016
+[2018.02.24-02.42.28:461][557]LogBlueprintUserMessages: [Hover_Component_RR] Server: 8429.802734
+[2018.02.24-02.42.28:461][557]LogBlueprintUserMessages: [Hover_Component_FL] Server: 8228.6875
+[2018.02.24-02.42.28:519][564]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 8441.28125
+[2018.02.24-02.42.28:644][579]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.28:660][581]LogBlueprintUserMessages: [Hover_Component_RL] Server: 8348.742188
+[2018.02.24-02.42.28:660][581]LogBlueprintUserMessages: [Hover_Component_FR] Server: 8415.325195
+[2018.02.24-02.42.28:660][581]LogBlueprintUserMessages: [Hover_Component_RR] Server: 8475.886719
+[2018.02.24-02.42.28:661][581]LogBlueprintUserMessages: [Hover_Component_FL] Server: 8287.253906
+[2018.02.24-02.42.28:719][588]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.28:861][605]LogBlueprintUserMessages: [Hover_Component_RL] Server: 8366.860352
+[2018.02.24-02.42.28:861][605]LogBlueprintUserMessages: [Hover_Component_FR] Server: 8432.220703
+[2018.02.24-02.42.28:861][605]LogBlueprintUserMessages: [Hover_Component_RR] Server: 8493.583984
+[2018.02.24-02.42.28:861][605]LogBlueprintUserMessages: [BP_Hover_Component] Server: 8350.625
+[2018.02.24-02.42.28:861][605]LogBlueprintUserMessages: [Hover_Component_FL] Server: 8304.557617
+[2018.02.24-02.42.28:994][621]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.29:060][629]LogBlueprintUserMessages: [Hover_Component_RL] Server: 8408.96582
+[2018.02.24-02.42.29:060][629]LogBlueprintUserMessages: [Hover_Component_FR] Server: 8369.070313
+[2018.02.24-02.42.29:061][629]LogBlueprintUserMessages: [Hover_Component_RR] Server: 8489.383789
+[2018.02.24-02.42.29:061][629]LogBlueprintUserMessages: [BP_Hover_Component] Server: 8303.016602
+[2018.02.24-02.42.29:061][629]LogBlueprintUserMessages: [Hover_Component_FL] Server: 8287.477539
+[2018.02.24-02.42.29:260][653]LogBlueprintUserMessages: [Hover_Component_RL] Server: 8310.666016
+[2018.02.24-02.42.29:260][653]LogBlueprintUserMessages: [Hover_Component_FR] Server: 8211.835938
+[2018.02.24-02.42.29:260][653]LogBlueprintUserMessages: [Hover_Component_RR] Server: 8353.176758
+[2018.02.24-02.42.29:261][653]LogBlueprintUserMessages: [BP_Hover_Component] Server: 8179.486328
+[2018.02.24-02.42.29:261][653]LogBlueprintUserMessages: [Hover_Component_FL] Server: 8168.578613
+[2018.02.24-02.42.29:410][671]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 8175.275879
+[2018.02.24-02.42.29:460][677]LogBlueprintUserMessages: [Hover_Component_RL] Server: 8012.01123
+[2018.02.24-02.42.29:460][677]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7911.200195
+[2018.02.24-02.42.29:461][677]LogBlueprintUserMessages: [Hover_Component_RR] Server: 8053.591309
+[2018.02.24-02.42.29:461][677]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7882.108398
+[2018.02.24-02.42.29:461][677]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7868.868652
+[2018.02.24-02.42.29:660][701]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7637.72168
+[2018.02.24-02.42.29:660][701]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7536.527344
+[2018.02.24-02.42.29:660][701]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7679.321289
+[2018.02.24-02.42.29:660][701]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7506.348633
+[2018.02.24-02.42.29:660][701]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7494.13623
+[2018.02.24-02.42.29:860][725]LogBlueprintUserMessages: [Hover_Component_RL] Server: 7228.065918
+[2018.02.24-02.42.29:860][725]LogBlueprintUserMessages: [Hover_Component_FR] Server: 7127.050293
+[2018.02.24-02.42.29:860][725]LogBlueprintUserMessages: [Hover_Component_RR] Server: 7269.882324
+[2018.02.24-02.42.29:860][725]LogBlueprintUserMessages: [BP_Hover_Component] Server: 7096.39209
+[2018.02.24-02.42.29:860][725]LogBlueprintUserMessages: [Hover_Component_FL] Server: 7084.391113
+[2018.02.24-02.42.30:060][749]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6830.608887
+[2018.02.24-02.42.30:060][749]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6733.508789
+[2018.02.24-02.42.30:060][749]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6875.245117
+[2018.02.24-02.42.30:061][749]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6701.473145
+[2018.02.24-02.42.30:061][749]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6687.927246
+[2018.02.24-02.42.30:260][773]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6610.740723
+[2018.02.24-02.42.30:261][773]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6484.09082
+[2018.02.24-02.42.30:261][773]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6633.733887
+[2018.02.24-02.42.30:261][773]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6459.549805
+[2018.02.24-02.42.30:261][773]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6460.563965
+[2018.02.24-02.42.30:461][797]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6497.085938
+[2018.02.24-02.42.30:461][797]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6302.677734
+[2018.02.24-02.42.30:461][797]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6444.263672
+[2018.02.24-02.42.30:461][797]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6317.006836
+[2018.02.24-02.42.30:461][797]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6356.676758
+[2018.02.24-02.42.30:661][821]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6375.983887
+[2018.02.24-02.42.30:661][821]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6190.312012
+[2018.02.24-02.42.30:661][821]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6245.899414
+[2018.02.24-02.42.30:661][821]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6250.785156
+[2018.02.24-02.42.30:661][821]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6321.519043
+[2018.02.24-02.42.30:862][845]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6259.943848
+[2018.02.24-02.42.30:862][845]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6180.689453
+[2018.02.24-02.42.30:862][845]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6128.196289
+[2018.02.24-02.42.30:862][845]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6267.809082
+[2018.02.24-02.42.30:862][845]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6311.34082
+[2018.02.24-02.42.31:061][869]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6123.776367
+[2018.02.24-02.42.31:061][869]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6069.333008
+[2018.02.24-02.42.31:061][869]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5999.283203
+[2018.02.24-02.42.31:061][869]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6192.388184
+[2018.02.24-02.42.31:069][870]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 6044.060059
+[2018.02.24-02.42.31:262][893]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6033.55127
+[2018.02.24-02.42.31:262][893]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5897.321289
+[2018.02.24-02.42.31:262][893]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5893.323242
+[2018.02.24-02.42.31:262][893]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6037.483887
+[2018.02.24-02.42.31:270][894]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 5962.012207
+[2018.02.24-02.42.31:462][917]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6017.754883
+[2018.02.24-02.42.31:462][917]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5814.248047
+[2018.02.24-02.42.31:462][917]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5915.352051
+[2018.02.24-02.42.31:462][917]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5918.41748
+[2018.02.24-02.42.31:470][918]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 5994.141602
+[2018.02.24-02.42.31:503][922]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5815.047363
+[2018.02.24-02.42.31:662][941]LogBlueprintUserMessages: [Hover_Component_RL] Server: 6002.107422
+[2018.02.24-02.42.31:662][941]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5870.172852
+[2018.02.24-02.42.31:662][941]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6017.135742
+[2018.02.24-02.42.31:662][941]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5854.754395
+[2018.02.24-02.42.31:670][942]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.31:704][946]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5819.855469
+[2018.02.24-02.42.31:861][965]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5964.995117
+[2018.02.24-02.42.31:861][965]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6024.762695
+[2018.02.24-02.42.31:862][965]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6089.741699
+[2018.02.24-02.42.31:862][965]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5898.640625
+[2018.02.24-02.42.31:904][970]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.32:061][989]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5933.36377
+[2018.02.24-02.42.32:061][989]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6128.29248
+[2018.02.24-02.42.32:061][989]LogBlueprintUserMessages: [Hover_Component_RR] Server: 6055.65918
+[2018.02.24-02.42.32:061][989]LogBlueprintUserMessages: [Hover_Component_FL] Server: 6007.479004
+[2018.02.24-02.42.32:112][995]LogBlueprintUserMessages: [BP_Hover_Component] Server: 6102.857422
+[2018.02.24-02.42.32:120][996]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 5942.584473
+[2018.02.24-02.42.32:262][ 13]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5813.354004
+[2018.02.24-02.42.32:262][ 13]LogBlueprintUserMessages: [Hover_Component_FR] Server: 6012.436523
+[2018.02.24-02.42.32:262][ 13]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5886.519043
+[2018.02.24-02.42.32:262][ 13]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5940.853027
+[2018.02.24-02.42.32:312][ 19]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.32:320][ 20]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 5760.19043
+[2018.02.24-02.42.32:462][ 37]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5590.045898
+[2018.02.24-02.42.32:462][ 37]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5792.547363
+[2018.02.24-02.42.32:462][ 37]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5671.179199
+[2018.02.24-02.42.32:462][ 37]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5713.142578
+[2018.02.24-02.42.32:520][ 44]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 5589.863281
+[2018.02.24-02.42.32:662][ 61]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5523.214844
+[2018.02.24-02.42.32:662][ 61]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5706.136719
+[2018.02.24-02.42.32:662][ 61]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5656.154785
+[2018.02.24-02.42.32:662][ 61]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5574.366699
+[2018.02.24-02.42.32:720][ 68]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 5593.059082
+[2018.02.24-02.42.32:862][ 85]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5568.797852
+[2018.02.24-02.42.32:862][ 85]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5619.214355
+[2018.02.24-02.42.32:862][ 85]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5690.488281
+[2018.02.24-02.42.32:862][ 85]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5495.94873
+[2018.02.24-02.42.32:945][ 95]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5494.421875
+[2018.02.24-02.42.33:061][109]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5624.643066
+[2018.02.24-02.42.33:062][109]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5491.305664
+[2018.02.24-02.42.33:062][109]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5638.704102
+[2018.02.24-02.42.33:062][109]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5476.825684
+[2018.02.24-02.42.33:145][119]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5428.632813
+[2018.02.24-02.42.33:262][133]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5588.27832
+[2018.02.24-02.42.33:262][133]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5386.117188
+[2018.02.24-02.42.33:262][133]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5478.601074
+[2018.02.24-02.42.33:262][133]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5497.631348
+[2018.02.24-02.42.33:320][140]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 5512.527832
+[2018.02.24-02.42.33:345][143]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5430.088379
+[2018.02.24-02.42.33:462][157]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5459.317383
+[2018.02.24-02.42.33:462][157]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5383.48291
+[2018.02.24-02.42.33:462][157]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5328.459961
+[2018.02.24-02.42.33:462][157]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5513.022461
+[2018.02.24-02.42.33:520][164]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.33:545][167]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5493.369629
+[2018.02.24-02.42.33:662][181]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5345.970215
+[2018.02.24-02.42.33:662][181]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5474.849609
+[2018.02.24-02.42.33:662][181]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5327.541992
+[2018.02.24-02.42.33:662][181]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5492.762207
+[2018.02.24-02.42.33:745][191]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5533.15332
+[2018.02.24-02.42.33:862][205]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5339.285645
+[2018.02.24-02.42.33:862][205]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5543.077148
+[2018.02.24-02.42.33:862][205]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5429.819824
+[2018.02.24-02.42.33:862][205]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5454.412598
+[2018.02.24-02.42.33:945][215]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5525.374512
+[2018.02.24-02.42.34:029][225]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.34:062][229]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5331.473633
+[2018.02.24-02.42.34:062][229]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5535.001465
+[2018.02.24-02.42.34:062][229]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5424.394043
+[2018.02.24-02.42.34:062][229]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5443.970215
+[2018.02.24-02.42.34:145][239]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5530.567383
+[2018.02.24-02.42.34:262][253]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5325.819336
+[2018.02.24-02.42.34:262][253]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5529.126465
+[2018.02.24-02.42.34:262][253]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5416.424805
+[2018.02.24-02.42.34:262][253]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5440.398438
+[2018.02.24-02.42.34:345][263]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5528.875488
+[2018.02.24-02.42.34:404][270]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.34:462][277]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5311.880859
+[2018.02.24-02.42.34:462][277]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5510.562012
+[2018.02.24-02.42.34:462][277]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5384.157715
+[2018.02.24-02.42.34:462][277]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5439.964355
+[2018.02.24-02.42.34:545][287]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5519.744629
+[2018.02.24-02.42.34:662][301]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5289.929688
+[2018.02.24-02.42.34:662][301]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5424.288086
+[2018.02.24-02.42.34:662][301]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5276.772461
+[2018.02.24-02.42.34:662][301]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 5226.465332
+[2018.02.24-02.42.34:662][301]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5437.088867
+[2018.02.24-02.42.34:862][325]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5296.635742
+[2018.02.24-02.42.34:862][325]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5266.534668
+[2018.02.24-02.42.34:862][325]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5180.852051
+[2018.02.24-02.42.34:862][325]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 5208.055664
+[2018.02.24-02.42.34:862][325]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5380.477539
+[2018.02.24-02.42.34:929][333]LogBlueprintUserMessages: [BP_Hover_Component] Server: 0.0
+[2018.02.24-02.42.35:062][349]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5313.289063
+[2018.02.24-02.42.35:062][349]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5129.057617
+[2018.02.24-02.42.35:062][349]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5183.38623
+[2018.02.24-02.42.35:062][349]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.35:062][349]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5260.300781
+[2018.02.24-02.42.35:237][370]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5091.694336
+[2018.02.24-02.42.35:262][373]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5293.943848
+[2018.02.24-02.42.35:262][373]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5094.902832
+[2018.02.24-02.42.35:262][373]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5222.604004
+[2018.02.24-02.42.35:262][373]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5168.004395
+[2018.02.24-02.42.35:320][380]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.35:437][394]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5066.077148
+[2018.02.24-02.42.35:462][397]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5272.302734
+[2018.02.24-02.42.35:462][397]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5094.259277
+[2018.02.24-02.42.35:462][397]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5238.178223
+[2018.02.24-02.42.35:462][397]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5129.340332
+[2018.02.24-02.42.35:637][418]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5061.926758
+[2018.02.24-02.42.35:662][421]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5260.417969
+[2018.02.24-02.42.35:662][421]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5096.655273
+[2018.02.24-02.42.35:662][421]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5243.879883
+[2018.02.24-02.42.35:662][421]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5113.67041
+[2018.02.24-02.42.35:804][438]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.35:837][442]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5057.757813
+[2018.02.24-02.42.35:862][445]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5254.72998
+[2018.02.24-02.42.35:862][445]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5098.174316
+[2018.02.24-02.42.35:862][445]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5246.067383
+[2018.02.24-02.42.35:862][445]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5107.088379
+[2018.02.24-02.42.36:037][466]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5055.397461
+[2018.02.24-02.42.36:062][469]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5251.708496
+[2018.02.24-02.42.36:062][469]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5098.524414
+[2018.02.24-02.42.36:062][469]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5246.52832
+[2018.02.24-02.42.36:062][469]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5103.85498
+[2018.02.24-02.42.36:237][490]LogBlueprintUserMessages: [BP_Hover_Component] Server: 5052.768555
+[2018.02.24-02.42.36:262][493]LogBlueprintUserMessages: [Hover_Component_RL] Server: 5250.422852
+[2018.02.24-02.42.36:262][493]LogBlueprintUserMessages: [Hover_Component_FR] Server: 5098.768555
+[2018.02.24-02.42.36:262][493]LogBlueprintUserMessages: [Hover_Component_RR] Server: 5246.794922
+[2018.02.24-02.42.36:262][493]LogBlueprintUserMessages: [Hover_Component_FL] Server: 5102.501953
+[2018.02.24-02.42.36:279][495]LogBlueprintUserMessages: [BP_Hover_Component1] Server: 0.0
+[2018.02.24-02.42.36:356][504]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.24-02.42.36:426][504]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.24-02.42.36:440][504]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54829, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2018.02.24-02.42.36:440][504]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54829, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.02.24-02.42.36
+[2018.02.24-02.42.36:440][504]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54829, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2018.02.24-02.42.36:440][504]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2018.02.24-02.42.36:440][504]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.02.24-02.42.36
+[2018.02.24-02.42.36:440][504]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2018.02.24-02.42.36:444][504]LogExit: GameNetDriver None shut down
+[2018.02.24-02.42.36:444][504]LogExit: GameNetDriver None shut down
+[2018.02.24-02.42.40:243][928]LogUObjectBase: Warning: Object is not registered
+[2018.02.24-02.42.40:528][928]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.284 s
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: === Handled ensure: ===
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: 
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: Stack: 
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x000000003CDE2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x000000003CB8123A UE4Editor-Core.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x000000003CB9B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x00000000381033F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x0000000035A103AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x0000000034E13EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x0000000034CA74AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x0000000034CAABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x0000000034DD8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x000000003BEB7397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x000000003BEBCE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x000000003C0F9913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x000000003BF13484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x000000003BEEB68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x000000003BEDD6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x000000006489E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x0000000064891A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x00000000648A03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x000000006488D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x000000008C29B85D USER32.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x000000008C29B1EF USER32.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x00000000648A1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x000000003AA350C8 UE4Editor.exe!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x000000003AA45430 UE4Editor.exe!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x000000003AA454AA UE4Editor.exe!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x000000003AA52379 UE4Editor.exe!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x000000003AA53D57 UE4Editor.exe!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x000000008E8E1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: [Callstack] 0x000000008EDEEFC1 ntdll.dll!UnknownFunction []
+[2018.02.24-02.42.40:528][928]LogOutputDevice: Error: 
+[2018.02.24-02.42.40:534][928]LogStats:                SubmitErrorReport -  0.000 s
